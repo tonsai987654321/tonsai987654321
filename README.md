@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Tonsai.
+- 👀 I’m interested in computer hardware and software.
