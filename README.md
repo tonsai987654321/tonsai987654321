@@ -11,9 +11,11 @@ Vibe coding. Automation for life.
 
 **Languages**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat&logo=robotframework&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Testing & Automation**
 
@@ -25,8 +27,15 @@ Vibe coding. Automation for life.
 
 ## Featured Projects
 
+### [Chrome Zoom Extension](https://github.com/tonsai987654321/chrome-zoom-extension)
+Chrome extension for unlimited zoom on web pages and PDFs, with a bundled PDF.js viewer. Removes browser zoom limits entirely.
+
+`JavaScript` `CSS` `HTML` `Chrome Extension`
+
+---
+
 ### [LLM Quality Evaluator](https://github.com/tonsai987654321/llm-quality-evaluator)
-pytest framework that scores LLM responses across latency, consistency, and hallucination dimensions — generates a self-contained HTML quality report and publishes it via GitHub Pages.
+pytest framework that scores LLM responses across latency, consistency, and hallucination dimensions — generates a self-contained HTML quality report published via GitHub Pages.
 
 `Python` `pytest` `OpenAI API` `GitHub Actions`
 
@@ -42,7 +51,7 @@ Web UI automation framework for an e-commerce demo site using Playwright + Pytho
 ### [Robot Framework API Tests](https://github.com/tonsai987654321/robot-api-tests)
 Keyword-driven API test suite targeting a public REST API. Covers CRUD, authentication, error handling, and edge cases with HTML reports published to GitHub Pages.
 
-`Robot Framework` `RequestsLibrary` `keyword-driven`
+`Robot Framework` `RequestsLibrary`
 
 ---
 
