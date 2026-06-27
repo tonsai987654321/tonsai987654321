@@ -7,6 +7,9 @@ Vibe coding. Automation for life.
 
 ---
 
+[Click here for PDF document Resume](./Resume_Tonsai_Threetan.pdf)
+---
+
 ## Tech Stack
 
 **Languages**
